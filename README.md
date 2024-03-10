@@ -1,4 +1,4 @@
-![web](https://github.com/omkar028/omkar028/assets/77525347/4c2b0e59-6032-43e9-95a4-d35b295183f1)
+![image](https://github.com/omkar028/omkar028/assets/77525347/a94a93cc-5d0c-40d0-967f-ede7274d1814)
 
 <h1 align="center">Hi 👋, I'm Omkar Bhandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
