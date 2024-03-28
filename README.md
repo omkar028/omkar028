@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **omkarbhandari028@gmail.com**
 
-- - 👨‍💻 My portfolio website [https://omkar028.github.io](https://omkar028.github.io)
+- 👨‍💻 My portfolio website [https://omkar028.github.io/portfolio/](https://omkar028.github.io/portfolio/)
 
 
 
