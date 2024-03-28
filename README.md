@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning **Fullstack development**
 
 - 📫 How to reach me **omkarbhandari028@gmail.com**
-<a href="" >have a look!</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
